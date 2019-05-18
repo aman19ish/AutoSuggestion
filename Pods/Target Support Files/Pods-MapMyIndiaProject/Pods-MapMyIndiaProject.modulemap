@@ -1,0 +1,6 @@
+framework module Pods_MapMyIndiaProject {
+  umbrella header "Pods-MapMyIndiaProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
